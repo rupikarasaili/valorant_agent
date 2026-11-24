@@ -1,0 +1,5 @@
+langgraph>=0.2.0
+langchain-core>=0.3.0
+sqlalchemy>=2.0.0
+streamlit>=1.38.0
+typing-extensions>=4.0.0c
